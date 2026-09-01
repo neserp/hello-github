@@ -1,2 +1,5 @@
 # hello-github
-learning GitHub
+Learning GitHub with a practice repo.
+
+
+
